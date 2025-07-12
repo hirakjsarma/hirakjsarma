@@ -29,7 +29,7 @@
 ---
 
 ## ✨ Let’s Connect!
-[LinkedIn](https://www.linkedin.com/in/hirakjsarma) | [Portfolio-Film]([https://www.linkedin.com/in/hirakjsarma](https://hirakjsarma.notion.site/Hirak-J-Sarma-Portfolio-fdb492446ae8434684d97dcf88dce601)) 
+[LinkedIn](https://www.linkedin.com/in/hirakjsarma) | [Portfolio-Film](https://hirakjsarma.notion.site/Hirak-J-Sarma-Portfolio-fdb492446ae8434684d97dcf88dce601) 
 <!--
 **hirakjsarma/hirakjsarma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
