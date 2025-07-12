@@ -14,9 +14,9 @@
 ---
 
 ## 🌱 Background
-- 10+ years in visual storytelling, direction & post-production  
-- Mentored 1000+ creators as Nikon's Visual Storytelling Expert  
-- Now blending creativity with code — one project at a time
+- 10+ years in visual storytelling, direction & post-production
+- 100+ Projects with Clients like British Council, Tata, Sony etc
+- Mentored 1000+ creators as Nikon's Mentor
 
 ---
 
@@ -29,7 +29,7 @@
 ---
 
 ## ✨ Let’s Connect!
-[LinkedIn](https://www.linkedin.com/in/hirakjsarma) | 
+[LinkedIn](https://www.linkedin.com/in/hirakjsarma) | [Portfolio-Film](https://www.linkedin.com/in/hirakjsarma) 
 <!--
 **hirakjsarma/hirakjsarma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
