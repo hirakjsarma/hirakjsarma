@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hirak J Sarma
 
-🎬 Filmmaker turned Creative Technologist  
+🎬 Creative Director turned Codder 
 💻 Currently learning Full-Stack Web Development  
 🎯 Goal: To build beautiful, accessible, and purposeful digital tools  
 
@@ -15,7 +15,7 @@
 
 ## 🌱 Background
 - 10+ years in visual storytelling, direction & post-production  
-- Mentored 1000+ creators as Nikon India's Visual Storytelling Expert  
+- Mentored 1000+ creators as Nikon's Visual Storytelling Expert  
 - Now blending creativity with code — one project at a time
 
 ---
